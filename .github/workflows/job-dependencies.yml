@@ -1,6 +1,6 @@
 name:  Job Dependencies
 
-on: [push]
+on: push
 
 jobs:
   build:
